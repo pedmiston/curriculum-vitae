@@ -1,15 +1,11 @@
-vitae: curriculum-vitae.md
-	pandoc \
-		--standalone \
-		--template style/curriculum-vitae.tex \
-		--from markdown --to context \
-		-V papersize=A4 \
-		-o curriculum-vitae.tex \
-		curriculum-vitae.md
+PRINT ?=no
+NAME ?=output/Pierce-Edmiston-CV-`date +'%Y-%m-%d'`.pdf
 
-	context \
-		--autopdf --purgeall \
-		--result=output/Edmiston-CV-`date +'%Y-%m-%d'`.pdf \
-		curriculum-vitae.tex
+ifeq "$(PRINT)" "no"
+NAME := $@
+endif
 
-	rm -f curriculum-vitae.tex curriculum-vitae.tuc
+curriculum-vitae.pdf: curriculum-vitae.tex
+	context --autopdf --purgeall --result=$(NAME) $<
+curriculum-vitae.tex: curriculum-vitae.md
+	pandoc --from markdown --to context --template style/curriculum-vitae.tex --standalone -V papersize=A4 -o $@ $<

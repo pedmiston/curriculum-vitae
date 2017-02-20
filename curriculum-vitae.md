@@ -17,9 +17,19 @@ Education
 2008-2012
 :   **BA, Individualized (Cognitive Science)**. St. John's University, Collegeville, MN. Honors: _summa cum laude_, Phi Beta Kappa
 
+Leadership positions
+--------------------
+
+START-END
+:    Manager, Athletic Training Room, College of St. Benedict.
+
+START-END
+:    Chair, Psychology Department Colloquium Series.
+
 ----
 
 \EveryPar{\hangafter=1\hangindent=2em\relax}
+
 
 Journal publications
 --------------------

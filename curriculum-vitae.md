@@ -32,10 +32,7 @@ START-END
 START-END
 :    Manager, Athletic Training Room, College of St. Benedict.
 
-----
-
 \EveryPar{\hangafter=1\hangindent=2em\relax}
-
 
 Journal publications
 --------------------
@@ -48,8 +45,6 @@ Edmiston, P., & Lupyan, G., (2015). What makes words special? Words as unmotivat
 
 [motivated]: http://sapir.psych.wisc.edu/papers/edmiston_lupyan_2015_motivated.pdf
 [npr]: http://www.npr.org/sections/13.7/2015/07/14/422527144/the-magic-of-words-transcending-the-tyranny-of-the-specific
-
-----
 
 Conference proceedings
 ----------------------
@@ -71,8 +66,6 @@ Edmiston, P. & Lupyan, G. (2014). Words as unmotivated cues. In E. A. Cartmill, 
 Edmiston, P., & Lupyan, G. (2013). Verbal and nonverbal cues activate concepts differently, at different times. In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), _Proceedings of the 35th Annual Conference of the Cognitive Science Society_ (pp. 2243-2248). Austin, TX: Cognitive Science Society. [pdf][cogsci].
 
 [cogsci]: http://csjarchive.cogsci.rpi.edu/Proceedings/2013/papers/0410/paper0410.pdf
-
-----
 
 Manuscripts in preparation
 --------------------------

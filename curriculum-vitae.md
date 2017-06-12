@@ -1,8 +1,6 @@
 Pierce Edmiston
 ===============
 
-> The science of change  
-
 ----
 
 Education
@@ -17,31 +15,18 @@ Education
 2008-2012
 :   **BA, Individualized (Cognitive Science)**. St. John's University, Collegeville, MN. Honors: _summa cum laude_, Phi Beta Kappa
 
-Leadership training and experience
-----------------------------------
-
-9/1/2013-
-:    Research assistant for Gary Lupyan's research lab.
-
-3/6/2017
-:    Bias and Diversity Training. University of Wisconsin-Madison.
-
-START-END
-:    Chair, Psychology Department Colloquium Series.
-
-START-END
-:    Manager, Athletic Training Room, College of St. Benedict.
-
 \EveryPar{\hangafter=1\hangindent=2em\relax}
 
 Journal publications
 --------------------
 
-Edmiston, P., & Lupyan, G., (2017). Visual interference disrupts visual knowledge. _Journal of Memory and Language_, _92_, 281-292. [pdf][visual].
+Edmiston, P., Perlman, M., & Lupyan, G. (in prep). The emergence of words from vocal imitations.
+
+Edmiston, P., & Lupyan, G. (2017). Visual interference disrupts visual knowledge. _Journal of Memory and Language_, _92_, 281-292. [pdf][visual].
 
 [visual]: http://sapir.psych.wisc.edu/papers/edmiston_lupyan_JML.pdf
 
-Edmiston, P., & Lupyan, G., (2015). What makes words special? Words as unmotivated cues. _Cognition_, _143_, 93-100. [pdf][motivated], [press][npr].
+Edmiston, P., & Lupyan, G. (2015). What makes words special? Words as unmotivated cues. _Cognition_, _143_, 93-100. [pdf][motivated], [press][npr].
 
 [motivated]: http://sapir.psych.wisc.edu/papers/edmiston_lupyan_2015_motivated.pdf
 [npr]: http://www.npr.org/sections/13.7/2015/07/14/422527144/the-magic-of-words-transcending-the-tyranny-of-the-specific
@@ -67,12 +52,12 @@ Edmiston, P., & Lupyan, G. (2013). Verbal and nonverbal cues activate concepts d
 
 [cogsci]: http://csjarchive.cogsci.rpi.edu/Proceedings/2013/papers/0410/paper0410.pdf
 
-Manuscripts in preparation
---------------------------
+Selected talks
+--------------
 
-Edmiston, P., Perlman, M., & Lupyan, G. The emergence of lexical categories from iterated vocal imitation.
+Edmiston, P. (2017). Adopting open source practices for better science. Holz Research Data Brown Bag Series, University of Wisconsin-Madison.
 
-Edmiston, P., & Lupyan, G. Article quality as a selection pressure in the evolution of Wikipedia articles.
+Edmiston, P. (2017). Using evolutionary principles to make sense of word origins, problem solving, and the growth of Wikipedia articles. JF Crow Institute for the Study of Evolution, University of Wisconsin-Madison.
 
 ----
 
